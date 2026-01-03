@@ -1,9 +1,9 @@
 ﻿{
     "appId": "com.ednovas.donguatv",
-    "appName": "E视界",
+    "appName": "Massie电影",
     "webDir": "public",
     "server": {
-        "url": "https://ednovas.video",
+        "url": "https://eiga.wenjie.li",
         "cleartext": true
     },
     "plugins": {
@@ -13,4 +13,5 @@
             "backgroundColor": "#000000"
         }
     }
+
 }
